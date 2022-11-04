@@ -1,0 +1,11 @@
+{
+  "name": "unglitch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:MikelArnaiz/unglitch.git",
+  "author": "Mikel Arnaiz",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
